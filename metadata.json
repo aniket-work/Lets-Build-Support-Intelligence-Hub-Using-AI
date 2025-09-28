@@ -1,0 +1,5 @@
+{
+  "name": "Real-Time Support Intelligence Hub",
+  "description": "An intelligent application for support teams to upload user CSV data (logs, usage dumps) and let an AI agent automatically surface anomalies, uncover root causes, and summarize emerging patterns.",
+  "requestFramePermissions": []
+}
